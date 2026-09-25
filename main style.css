@@ -1,0 +1,39 @@
+body{
+    background-color: black;
+    color: chocolate;
+    padding: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+headers{
+    background-color: blanchedalmond;
+     
+    color: blue;
+    padding: 20px 50px;
+    
+    
+
+    
+}
+
+.marquee h1{
+    display:inline-block;
+    animation: scroll left 10s linear infinite;
+}
+
+a:hover{
+
+        background-color: chocolate;
+        color: chartreuse;
+        font-size: larger;
+        border: 20px;
+}
+
+ul.our packages {
+    list-style-type: square;
+    margin: 20px 0;
+    padding-left: 30px;
+}
+
+
